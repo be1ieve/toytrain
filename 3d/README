@@ -1,1 +1,6 @@
 Files created using FreeCAD. Feel free to print your own.
+All models can print without support but note that engine.stl needs some modify:
+1. print this vertically 
+2. add brim in case it fails
+3. remove support bars between wheel arch
+ 
